@@ -5,9 +5,9 @@
 - 💻 I am a Software Developer
 - 🏫 Studying Computer Science at the University of Toronto 
 - 👨🏽‍💻 Love developing Full Stack Applications and am open to contribute to projects
-- 🌱 I’m currently learning about web3 and building DApps 
+- 🌱 Currently learning about web3 and building DApps 
 - 💼 Looking for Software Engineering Internships for 2023
-- 📧  Reach me on nestor.dsouza@mail.utoronto.ca
+- 📧 Reach me on nestor.dsouza@mail.utoronto.ca
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nestor-19&label=Profile%20views&color=0e75b6&style=flat" alt="nestor-19" /> </p>
 
