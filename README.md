@@ -7,7 +7,7 @@
 - 🏫 Studying Computer Science at the University of Toronto 
 - 👨🏽‍💻 Love developing Full Stack Applications and am open to contribute to projects
 - 🌱 Currently learning about web3 and building DApps 
-- 💼 Seeking Software Engineering Internships for 2023
+- 💼 Seeking Software Engineering Internships for 2024
 - 📧 Reach me on nestor.dsouza@mail.utoronto.ca
 - 🌐 Check out my _**[Website](https://nestordsouza.me/)**_
 
