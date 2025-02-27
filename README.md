@@ -3,11 +3,11 @@
 
 
 ## 👨🏽‍🎓 About Me
-- 💻 I am a Software Developer
+- 💻 I am a Software Engineer
 - 🏫 Studying Computer Science at the University of Toronto 
 - 👨🏽‍💻 Love developing Full Stack Applications and am open to contribute to projects
 - 🌱 Currently learning about web3 and building DApps 
-- 💼 Seeking Full-Time Software Engineer Positions for 2024
+- 💼 Seeking Full-Time Software Engineer Positions for 2025
 - 📧 Reach me on nestor.dsouza@mail.utoronto.ca
 - 🌐 Check out my _**[Website](https://nestordsouza.me/)**_
 
